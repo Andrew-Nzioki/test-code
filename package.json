@@ -1,0 +1,11 @@
+{
+  "name": "toy",
+  "version": "1.0.0",
+  "description": "A solution for the toy problems",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Andrew Nzioki",
+  "license": "MIT"
+}
